@@ -12,7 +12,7 @@
         -C programming
         -python programming
         -SQL
-        -![Static Badge](https://img.shields.io/badge/c-purple?style=flat&logo=c&logoColor=white&logoSize=auto)
+       - ![Static Badge](https://img.shields.io/badge/c-purple?style=flat&logo=c&logoColor=white&logoSize=auto)
         -![Static Badge](https://img.shields.io/badge/HTML-orange?style=social&logo=html5&logoColor=orange&logoSize=auto)
         -![Static Badge](https://img.shields.io/badge/css-blue?style=flat-square&logo=css&logoColor=white&logoSize=auto)
         -![Static Badge](https://img.shields.io/badge/Nodejs-green?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto)
