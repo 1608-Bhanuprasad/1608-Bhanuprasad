@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋, I am Gandla BanuPrasad
 
-<!--
-**1608-Bhanuprasad/1608-Bhanuprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I’m currently working on
+        Data Science
+        computer Networks
+        DevOps
+        UI_Design Flutter
+        Git and Github
+        
+Skills and Tools
+        Java programming
+        C programming
+        python programming
+        SQL
+        Web Development
+        ![Static Badge](https://img.shields.io/badge/R%20programming-lightblue?style=plastic&logo=rstudioide&logoColor=white&logoSize=auto)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect With me
+       Email:bhanuprasadgandla3@gmail.com
